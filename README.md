@@ -270,7 +270,7 @@
 
 ## 八、其他
 
-1. [Google 面试自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)（中文）
+1. [Google 面试自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)（中文） private repo 
 1. [技术面试手册](https://yangshun.github.io/tech-interview-handbook/)
 1. [如何在应用商店成功？](https://github.com/amirrajan/survivingtheappstore)
 1. [计算机之前的计算设备](http://ed-thelen.org/comp-hist/CBC.html)
